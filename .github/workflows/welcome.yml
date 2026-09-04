@@ -1,5 +1,5 @@
 
-# huhu
+# huhu 2nd
 name: Post welcome comment
 on:
   pull_request:
